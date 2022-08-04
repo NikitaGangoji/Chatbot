@@ -1,0 +1,38 @@
+[
+    {
+        "document": [
+            {
+                "type": "confirmedBenefitList",
+                "data": "pdfConfirmedBenefits"
+            },
+            {
+                "type": "highValueGoodsList",
+                "data": "pdfHighValueGoods"
+            },
+            {
+                "type": "onlineConsentLink",
+                "data": "onlineConsent"
+            },
+            {
+                "type": "privacyNoticeLink",
+                "data": "privacyNotice"
+            },
+            {
+                "type": "cartusOnlineLink",
+                "data": "https://www.cartus.com/en/"
+            },
+            {
+                "type": "exploreDestinationLink",
+                "data": "https://www.globallocalliving.com/direct?c=cartus_gll"
+            }
+        ]
+    },
+    {
+        "contactInfo": [
+            {
+                "type": "consultant",
+                "data": "93002002001"
+            }
+        ]
+    }
+]

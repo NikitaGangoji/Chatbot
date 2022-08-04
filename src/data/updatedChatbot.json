@@ -1,0 +1,56 @@
+{
+    "PersonalInfo": {
+        "Family Info": {
+            "api": "",
+            "type": "",
+            "response": "{familyMembers}"
+            
+        },
+        "Profile Info": {
+            "api": "",
+            "type": "",
+            "response": "{profileDetails}"
+        }
+    },
+    "Benefits": {
+        "Available Benefits": {
+            "api": "",
+            "type": "",
+            "response": "{availableBenefits}"
+        },
+        "Selected Benefits": {
+            "api": "",
+            "type": "",
+            "response": "{selectedBenefits}"
+        },
+        "Confirmed Benefits": {
+            "api": "",
+            "type": "",
+            "response": "{confirmedBenefits}"
+        }
+    },
+    "ExternalLinks": {
+        "cartusOnlineLink": {
+            "api": "",
+            "type": "",
+            "response": "{cartusOnline}"
+        },
+        "exploreDestinationLink": {
+            "api": "",
+            "type": "",
+            "response": "{exploreDestination}"
+        }
+    },
+    "ContactInfo": {
+        "ConsultantPhoneContact": {
+            "api": "",
+            "type": "",
+            "response": "{consultantPhone}"
+        },
+        "ConsultantEmailContact": {
+            "api": "",
+            "type": "",
+            "response": "{consultantEmail}"
+        }
+    }
+}
